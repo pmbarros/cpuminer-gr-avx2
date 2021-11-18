@@ -676,7 +676,7 @@ Options:\n\
       --verify          enable additional time consuming start up tests\n\
       --version         display version information and exit\n\
       --log=FILE        path to the file that will include a copy of miner output. File is not cleared after restart.\n\
-  -d, --donation=VAL    donation value in %%. Default is 1.75\n"
+  -d, --donation=VAL    donation value in %%. Default is 0.50\n"
 #ifdef __AES__
                             "\
   -y  --no-msr          disable application of MSR mod on the system\n"
